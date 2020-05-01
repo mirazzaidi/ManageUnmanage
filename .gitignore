@@ -1,0 +1,6 @@
+.vs/Unmanager/*
+WpfGuiClient/Core.ilk
+Core/x64/*
+WpfGuiClient/obj/Debug/*
+WpfGuiClient/obj/x64/*
+WpfGuiClient/bin/x64/*
